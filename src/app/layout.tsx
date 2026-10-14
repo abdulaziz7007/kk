@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Meni kechir…",
   description: "Yurakdan yozilgan samimiy maktub.",
-  applicationName: "Meni kechir",
+  applicationName: "Meni kechir Osiyo",
   openGraph: {
     title: "Meni kechir…",
     description: "Senga aytmoqchi bo‘lganlarim bor.",

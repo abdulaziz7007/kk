@@ -66,7 +66,7 @@ export default function Home() {
     <main className="page">
       <div className="wrap">
         <header className="top">
-          <a className="logo" href="#bosh">Meni kechir</a>
+          <a className="logo" href="#bosh">Meni kechir Osiyo</a>
           <nav className="menu" aria-label="Asosiy navigatsiya">
             <a href="#uzr">Uzrim</a>
             <a href="#xotira">Xotiralar</a>
